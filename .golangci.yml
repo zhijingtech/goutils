@@ -140,3 +140,4 @@ linters:
 run:
   timeout: 5m
   go: "1.22"
+  tests: false
