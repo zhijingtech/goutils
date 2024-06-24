@@ -1,4 +1,4 @@
-module github.com/ludanfeng/goutils
+module github.com/zhijingtech/goutils
 
 go 1.22.0
 
